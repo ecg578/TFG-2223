@@ -40,10 +40,6 @@ python v2.py
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o problema técnico, no dudes en ponerte en contacto con nosotros a través del siguiente correo electrónico: [correo electrónico de contacto].
-
-¡Gracias por tu interés en nuestra aplicación! Esperamos que disfrutes utilizando esta herramienta inteligente para mejorar tu técnica y maximizar tus resultados en el gimnasio.
-
-¡Mucho éxito en tus entrenamientos!
+Si tienes alguna pregunta, sugerencia o problema técnico, no dudes en ponerte en contacto conmigo a través del siguiente correo electrónico: [correo electrónico de contacto].
 
 ---
