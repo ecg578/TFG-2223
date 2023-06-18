@@ -1,17 +1,49 @@
-La práctica regular de ejercicios físicos en el gimnasio es fundamental para mantener una buena salud y forma física. Sin embargo, es común que los usuarios realicen los ejercicios de forma incorrecta, lo que puede resultar en lesiones o una eficacia reducida de los entrenamientos. Para abordar este desafío, se ha desarrollado una Aplicación Inteligente que utiliza técnicas de análisis y reconocimiento de imágenes para evaluar y corregir la técnica de los usuarios durante la realización de ejercicios básicos en el gimnasio.
+# Aplicación Inteligente para Evaluar la Técnica en los Ejercicios Básicos de Gimnasio
+
+La práctica regular de ejercicios físicos en el gimnasio es fundamental para mantener una buena salud y forma física. Sin embargo, es común que los usuarios realicen los ejercicios de forma incorrecta, lo que puede resultar en lesiones o una eficacia reducida de los entrenamientos. Para abordar este desafío, hemos desarrollado una Aplicación Inteligente que utiliza técnicas de análisis y reconocimiento de imágenes para evaluar y corregir la técnica de los usuarios durante la realización de ejercicios básicos en el gimnasio.
+
+## Objetivos
 
 El objetivo principal de este Trabajo de Fin de Grado (TFG) es diseñar y desarrollar una aplicación inteligente que sea capaz de analizar en tiempo real la ejecución de ejercicios básicos, como sentadillas, press de banca y peso muerto, y proporcionar retroalimentación precisa a los usuarios sobre su técnica. Esta retroalimentación incluye sugerencias de corrección para mejorar la postura, alineación y el rango de movimiento durante los ejercicios.
 
+## Instalación
 
-Para la correcta ejecución de esta aplicación se recomienda descargar la última versión estable del lenguaje desde el sitio web oficial de Python (https://www.python.org) y seguir las instrucciones específicas para la instalación, dependiendo del sistema operativo utilizado.
+1. Descarga Python: Se recomienda descargar la última versión estable de Python desde el sitio web oficial: [https://www.python.org](https://www.python.org). Sigue las instrucciones específicas de instalación según tu sistema operativo.
 
-Para ejecutarlo vamos a utilizar el comando python v2.py.
+2. Descarga el proyecto: Clona o descarga este repositorio en tu máquina local.
 
-Esto desplegará una interfaz muy sencilla e intuitiva que servirá para seleccionar el ejercicio que queremos evaluar a través del explorador de archivos.
+## Ejecución
 
-Los videos estarán disponibles para descargar a través de este enlace de MEGA: enlace MEGA
+1. Abre una terminal o línea de comandos en tu sistema operativo.
 
-En este video explicaré detalladamente el funcionamiento del software a modo de video guía: enlace youtube
+2. Navega hasta la ubicación donde se encuentra el archivo del proyecto.
 
+3. Ejecuta el siguiente comando para iniciar la aplicación:
 
-Gracias por tomar el tiempo para leer este README y conocer más sobre mi proyecto. Esperamos que esta guía haya sido clara y útil para comprender la funcionalidad y el uso de la aplicación.
+```
+python v2.py
+```
+
+## Uso
+
+1. Selecciona el ejercicio que deseas evaluar haciendo clic en el botón correspondiente.
+
+2. Utiliza el explorador de archivos para seleccionar el video del ejercicio que deseas analizar. Asegúrate de que el video cumple con los requisitos de formato y calidad establecidos.
+
+3. Una vez completado el análisis, recibirás el video analizado y un par de gráficas detalladas de tu rendimiento.
+
+## Recursos Adicionales
+
+- Puedes descargar los videos de muestra desde este enlace de MEGA: [enlace MEGA](enlace_mega).
+
+- Para obtener una guía visual detallada del funcionamiento de la aplicación, consulta este video en YouTube: [enlace YouTube](enlace_youtube).
+
+## Contacto
+
+Si tienes alguna pregunta, sugerencia o problema técnico, no dudes en ponerte en contacto con nosotros a través del siguiente correo electrónico: [correo electrónico de contacto].
+
+¡Gracias por tu interés en nuestra aplicación! Esperamos que disfrutes utilizando esta herramienta inteligente para mejorar tu técnica y maximizar tus resultados en el gimnasio.
+
+¡Mucho éxito en tus entrenamientos!
+
+---
