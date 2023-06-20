@@ -40,6 +40,6 @@ python v2.py
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o problema técnico, no dudes en ponerte en contacto conmigo a través del siguiente correo electrónico: [correo electrónico de contacto].
+Si tienes alguna pregunta, sugerencia o problema técnico, no dudes en ponerte en contacto conmigo a través del siguiente correo electrónico: ecg578@inlumine.ual.es.
 
 ---
