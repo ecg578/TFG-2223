@@ -1,4 +1,4 @@
-# TFG-2223# Aplicación Inteligente para Evaluar la Técnica en los Ejercicios Básicos de Gimnasio
+## Aplicación Inteligente para Evaluar la Técnica en los Ejercicios Básicos de Gimnasio
 
 La práctica regular de ejercicios físicos en el gimnasio es fundamental para mantener una buena salud y forma física. Sin embargo, es común que los usuarios realicen los ejercicios de forma incorrecta, lo que puede resultar en lesiones o una eficacia reducida de los entrenamientos. Para abordar este desafío, hemos desarrollado una Aplicación Inteligente que utiliza técnicas de análisis y reconocimiento de imágenes para evaluar y corregir la técnica de los usuarios durante la realización de ejercicios básicos en el gimnasio.
 
