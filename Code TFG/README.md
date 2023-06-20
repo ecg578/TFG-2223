@@ -34,7 +34,7 @@ python v2.py
 
 ## Recursos Adicionales
 
-- Puedes descargar los videos de muestra desde este enlace de MEGA: [enlace MEGA](enlace_mega).
+- Puedes descargar los videos de muestra desde este enlace de MEGA: [enlace MEGA]([enlace_mega](https://mega.nz/folder/kiEwRC7Y#jUyOX5NFWISpFwiQVWhuDw)).
 
 - Para obtener una guía visual detallada del funcionamiento de la aplicación, consulta este video en YouTube: [enlace YouTube](enlace_youtube).
 
